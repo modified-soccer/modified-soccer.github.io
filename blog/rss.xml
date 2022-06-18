@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Modified Roblox Soccer Blog</title>
+        <link>https://modified-roblox-soccer.github.io/blog</link>
+        <description>Modified Roblox Soccer Blog</description>
+        <lastBuildDate>Sat, 18 Jun 2022 13:26:04 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Website Information]]></title>
+            <link>https://modified-roblox-soccer.github.io/blog/website-info</link>
+            <guid>website-info</guid>
+            <pubDate>Sat, 18 Jun 2022 13:26:04 GMT</pubDate>
+            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
+            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
