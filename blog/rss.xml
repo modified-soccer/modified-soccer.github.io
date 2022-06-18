@@ -4,10 +4,18 @@
         <title>Modified Roblox Soccer Blog</title>
         <link>https://modified-roblox-soccer.github.io/blog</link>
         <description>Modified Roblox Soccer Blog</description>
-        <lastBuildDate>Sat, 18 Jun 2022 13:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 14:43:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <link>https://modified-roblox-soccer.github.io/blog/about-us</link>
+            <guid>about-us</guid>
+            <pubDate>Sat, 18 Jun 2022 14:43:05 GMT</pubDate>
+            <description><![CDATA[MRS is an association built off the roots of MPS and TPS old tools. MRS is based on the originally open sourced TPS legacy tools. Remade and modernized for competitive usage while also keeping authentic to what the game started as with additional features.]]></description>
+            <content:encoded><![CDATA[<p>MRS is an association built off the roots of MPS and TPS old tools. MRS is based on the originally open sourced TPS legacy tools. Remade and modernized for competitive usage while also keeping authentic to what the game started as with additional features.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="services-created-by-modified-roblox-soccer">Services created by Modified Roblox Soccer<a class="hash-link" href="#services-created-by-modified-roblox-soccer" title="Direct link to heading">​</a></h2><ul><li><p><a href="https://discord.com/api/oauth2/authorize?client_id=871136570948853800&amp;permissions=2147871808&amp;scope=bot%20applications.commands" target="_blank" rel="noopener noreferrer">MRS Guru</a></p></li><li><p><a href="https://discord.com/api/oauth2/authorize?client_id=937359867893665833&amp;permissions=2147552432&amp;scope=bot%20applications.commands" target="_blank" rel="noopener noreferrer">Howdy Bot</a></p></li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Website Information]]></title>
             <link>https://modified-roblox-soccer.github.io/blog/website-info</link>

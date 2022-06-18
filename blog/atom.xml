@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://modified-roblox-soccer.github.io/blog</id>
     <title>Modified Roblox Soccer Blog</title>
-    <updated>2022-06-18T13:26:04.041Z</updated>
+    <updated>2022-06-18T14:43:05.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://modified-roblox-soccer.github.io/blog"/>
     <subtitle>Modified Roblox Soccer Blog</subtitle>
     <icon>https://modified-roblox-soccer.github.io/img/MRS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[About Us]]></title>
+        <id>about-us</id>
+        <link href="https://modified-roblox-soccer.github.io/blog/about-us"/>
+        <updated>2022-06-18T14:43:05.761Z</updated>
+        <summary type="html"><![CDATA[MRS is an association built off the roots of MPS and TPS old tools. MRS is based on the originally open sourced TPS legacy tools. Remade and modernized for competitive usage while also keeping authentic to what the game started as with additional features.]]></summary>
+        <content type="html"><![CDATA[<p>MRS is an association built off the roots of MPS and TPS old tools. MRS is based on the originally open sourced TPS legacy tools. Remade and modernized for competitive usage while also keeping authentic to what the game started as with additional features.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="services-created-by-modified-roblox-soccer">Services created by Modified Roblox Soccer<a class="hash-link" href="#services-created-by-modified-roblox-soccer" title="Direct link to heading">​</a></h2><ul><li><p><a href="https://discord.com/api/oauth2/authorize?client_id=871136570948853800&amp;permissions=2147871808&amp;scope=bot%20applications.commands" target="_blank" rel="noopener noreferrer">MRS Guru</a></p></li><li><p><a href="https://discord.com/api/oauth2/authorize?client_id=937359867893665833&amp;permissions=2147552432&amp;scope=bot%20applications.commands" target="_blank" rel="noopener noreferrer">Howdy Bot</a></p></li></ul>]]></content>
+        <author>
+            <name>morgann1</name>
+            <uri>https://www.roblox.com/users/48715968/profile</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Website Information]]></title>
         <id>website-info</id>

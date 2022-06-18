@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"About Us","permalink":"/blog/about-us"},{"title":"Website Information","permalink":"/blog/website-info"}]}')}}]);
